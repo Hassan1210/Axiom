@@ -1,0 +1,9 @@
+# Playwright MCP browser session logs (ephemeral)
+.playwright-mcp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs (regenerated each session)
+logs/*.log
